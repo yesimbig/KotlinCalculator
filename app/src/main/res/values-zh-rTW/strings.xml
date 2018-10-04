@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kotlin Practise</string>
+    <string name="send_message">送出</string>
+    <string name="edit_message">請在此輸入訊息</string>
+    <string name="tap_button">按!</string>
+    <string name="buttonTextDivide">除</string>
+    <string name="buttonTextMultiple">乘</string>
+    <string name="buttonTextMinus">減</string>
+    <string name="buttonTextPlus">加</string>
+    <string name="buttonText7">柒</string>
+    <string name="buttonText8">捌</string>
+    <string name="buttonText9">玖</string>
+    <string name="buttonText4">肆</string>
+    <string name="buttonText5">伍</string>
+    <string name="buttonText6">陸</string>
+    <string name="buttonText1">壹</string>
+    <string name="buttonText2">貳</string>
+    <string name="buttonText3">參</string>
+    <string name="buttonText0">零</string>
+    <string name="buttonTextPoint">點</string>
+    <string name="buttonTextEqual">等於</string>
+</resources>

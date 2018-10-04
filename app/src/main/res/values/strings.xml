@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Kotlin Practise</string>
+    <string name="send_message">Send</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="tap_button">TAP</string>
+    <string name="buttonTextC" translatable="false">C</string>
+    <string name="buttonTextInverse" translatable="false">±</string>
+    <string name="buttonTextPercent" translatable="false">%</string>
+    <string name="buttonTextDivide">÷</string>
+    <string name="buttonTextMultiple">×</string>
+    <string name="buttonTextMinus">-</string>
+    <string name="buttonTextPlus">+</string>
+    <string name="buttonText7">7</string>
+    <string name="buttonText8">8</string>
+    <string name="buttonText9">9</string>
+    <string name="buttonText4">4</string>
+    <string name="buttonText5">5</string>
+    <string name="buttonText6">6</string>
+    <string name="buttonText1">1</string>
+    <string name="buttonText2">2</string>
+    <string name="buttonText3">3</string>
+    <string name="buttonText0">0</string>
+    <string name="buttonTextPoint">.</string>
+    <string name="buttonTextEqual">=</string>
+    <string name="buttonTextAC" translatable="false">AC</string>
+</resources>
