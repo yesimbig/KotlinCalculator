@@ -1,13 +1,11 @@
 apply plugin: 'com.android.application'
-
 apply plugin: 'kotlin-android'
-
 apply plugin: 'kotlin-android-extensions'
 
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.chin_ping.kotlinpractise"
+        applicationId "com.example.chinpingcho.kotlinpractise"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
